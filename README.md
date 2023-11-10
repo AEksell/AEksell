@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AEksell
-- 👀 I’m interested in Game development, software development
+- 👀 I’m interested in Game development, software development & Front-End
 - 🌱 I’m currently learning Javascript, lua, python
 - 📫 Reach out to me on email akselgab@gmail.com
 
