@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AEksell
 - 👀 I’m interested in Game development, software development & Front-End
-- 🌱 I’m currently learning Javascript, lua, python
+- 🌱 I’m currently learning C, lua, python
 - 📫 Reach out to me on email akselgab@gmail.com
 
 <!---
