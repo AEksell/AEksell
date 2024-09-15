@@ -3,6 +3,6 @@
 
 - Specialize in: React, Typescript, Tailwind, SQL.
 - Reliable with: Python, Lua.
-- Learning: Gleam, Java.
+- Learning: .NET, Java.
 
 akselgab@gmail.com
